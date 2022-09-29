@@ -1,0 +1,40 @@
+Prerequisites:
+
+  -Text editor (VScode)
+  -Web browser
+
+TODOs
+
+1. Build the project
+    - creating the folder
+    - adding files
+    - connecting files 
+
+2. Build the navbar
+    - two links and a name
+
+3. Portfolio item grid
+    - images
+    - titles
+    - descriptions
+    - animations (using javascript)
+
+4. Build About page
+    - image
+    - split column layout
+    - content
+
+Photo attributes
+-black guy in a tank with locs: Photo by <a href="https://unsplash.com/@byfoul?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Frankie Cordoba</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-woman building motherboards: Photo by <a href="https://unsplash.com/@pimchu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pim Chu</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-cobbler carving footwear: Photo by <a href="https://unsplash.com/@ra_oul?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Raoul Ortega</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-person sketching: Photo by <a href="https://unsplash.com/@cikstefan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Štefan Štefančík</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-person molding clay: Photo by <a href="https://unsplash.com/@shayneincphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shayne Inc Photography</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- tatooed barista:Photo by <a href="https://unsplash.com/@nixcreative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tyler Nix</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-person basket weaving: Photo by <a href="https://unsplash.com/@imkrisztian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Krisztian Matyas</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-construction worker: Photo by <a href="https://unsplash.com/@christopher__burns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christopher Burns</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-woman smoothing green fabric: Photo by <a href="https://unsplash.com/@flaxeco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Volha Flaxeco</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-watch maker: Photo by <a href="https://unsplash.com/@travisessinger?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Travis Essinger</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-working hands: Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sharon McCutcheon</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-jewelry maker: Photo by <a href="https://unsplash.com/@ryutarouozumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryutaro Uozumi</a> on <a href="https://unsplash.com/s/photos/working-with-hands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+                          
