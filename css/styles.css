@@ -156,6 +156,7 @@ body{
     text-align: end;
 }
 .handsWrapper img{
+    width: 309px;
     height: 395px;
     border: 8px solid tan;
 }
